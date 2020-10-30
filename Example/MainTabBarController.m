@@ -7,6 +7,7 @@
 //
 #import "MainTabBarController.h"
 #import <UIKit/UIKit.h>
+#import "CYLTabBarController-Swift.h"
 
 static CGFloat const CYLTabBarControllerHeight = 40.f;
 
